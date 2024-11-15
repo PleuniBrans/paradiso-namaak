@@ -16,7 +16,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Auteur:
-  Pleuni Brans yay
+  Pleuni Brans 
 
   #### Je startniveau:
   Blauw
@@ -43,8 +43,8 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <img src="beginscherm.png" width="375px" alt="begin scherm paradiso">
 
   #### Screenshot(s) van de tweede pagina (small screen):
-  Menu pagina 
-  <img src="www.paradiso.nl_nieuws.png" width="375px" alt="pagina met menu">
+  Nieuws pagina 
+  <img src="www.paradiso.nl_nieuws.png" width="375px" alt="nieuws pagina">
  
 </details>
 
