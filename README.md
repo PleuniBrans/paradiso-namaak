@@ -44,7 +44,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   #### Screenshot(s) van de tweede pagina (small screen):
   Menu pagina 
-  <img src="menu.png" width="375px" alt="pagina met menu">
+  <img src="www.paradiso.nl_nieuws.png" width="375px" alt="pagina met menu">
  
 </details>
 
